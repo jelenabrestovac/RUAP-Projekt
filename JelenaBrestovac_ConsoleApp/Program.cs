@@ -6,7 +6,7 @@ namespace JelenaBrestovac_ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Jelene Brestovac");
+            Console.WriteLine("Pozdrav iz aplikacije od Jelene Brestovac, broj indexa: 0165076831");
             
         }
     }
